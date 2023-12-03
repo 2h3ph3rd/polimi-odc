@@ -1,4 +1,4 @@
-# POLIMI - Offensive and Defensive Cybersecurity
+# Polimi - Offensive and Defensive Cybersecurity
 
 This repository contains the home challenges along with a selection of Capture The Flag (CTF) challenges from the Offensive and Defensive Cybersecurity course at Polimi during the academic year 2022-2023.
 
